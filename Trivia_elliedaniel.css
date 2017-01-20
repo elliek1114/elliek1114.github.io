@@ -1,0 +1,38 @@
+@charset "utf-8";
+body {
+	background-image : url("https://68.media.tumblr.com/3bd62505992a35e3d551f98d68c81e90/tumblr_nrfccoQ2mC1qi98gto1_500.jpg");
+	background-repeat: no-repeat;
+	background-color:  rgb(232,232,232) ;
+	background-size: 290px ;          
+	position:absolute; 
+	margin-left: 28%;
+	margin-top: 19%;
+	color:#DB7093;
+	font:.9cm;
+	}
+h1 {
+	text-align: left;
+	color:	#CD5C5C;
+}
+
+
+FORM {
+    background-image : url("http://cfile209.uf.daum.net/image/255C94465294B10C151C68");
+    background-repeat: no-repeat;
+	width : 450px;
+	height : 460px;
+}
+img {
+	width : 380px;
+	height : 180px;
+}
+
+textarea {
+	background-color:transparent;
+	color : rgb(153, 116, 125);
+	font-size: 15px;
+}
+input {
+    background-color : #F5F5DC;
+    color: 	#DB7093;
+}
